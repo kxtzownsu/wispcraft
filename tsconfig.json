@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"outDir": "build",
+		"sourceMap": true,
+		"target": "ESNext",
+		"lib": ["DOM", "DOM.Iterable", "ESNext"],
+		"strict": true,
+		"stripInternal": true,
+		"module": "ESNext",
+		"moduleResolution": "Bundler",
+		"allowSyntheticDefaultImports": true,
+		"declaration": true,
+		"noImplicitAny": false
+	},
+	"include": ["src"]
+}
